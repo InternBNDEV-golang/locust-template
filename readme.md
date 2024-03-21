@@ -4,7 +4,7 @@
 
 ```
 pip install locust
-locust -f locust.py
+locust -f locust.py --legacy-ui
 ```
 
 # HOST
